@@ -11,6 +11,9 @@ https://git.cs.dal.ca/schokshi/csci_4177-5709_assignments
 ## Tutorial 2 Folder link
 https://git.cs.dal.ca/schokshi/csci_4177-5709_tutorials/-/tree/main/Tutorial2
 
+## Tutorial Deployed Link
+https://646d98b4f8cb8c4b370cf110--cool-conkies-ff5761.netlify.app/
+
 ## Group Project Repository Link
 Main Branch:- https://git.cs.dal.ca/schokshi/csci_4177-5708_grp-09
 
